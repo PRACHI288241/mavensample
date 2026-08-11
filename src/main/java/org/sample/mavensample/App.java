@@ -10,6 +10,10 @@ public class App {
 
         boolean result = StringUtils.isEmpty(name);
 
+        System.out.println("Name: " + name);
         System.out.println("Is empty? " + result);
+
+        String reversedName = StringUtils.reverse(name);
+        System.out.println("Reversed name: " + reversedName);
     }
 }
