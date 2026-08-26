@@ -9,7 +9,7 @@
 
     <groupId>org.sample</groupId>
     <artifactId>mavensample</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <name>mavensample</name>
     <description>A simple Maven sample project.</description>
